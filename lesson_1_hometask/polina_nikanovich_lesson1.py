@@ -4,11 +4,11 @@ a = 1
 print ('a=',a)
 c = 28
 print ('c=',c)
-name = polina
+name = 'polina'
 print ('name',name)
-nickname = povsyy
+nickname = 'povsyy'
 print('nickname',nickname)
-list = [28,5,2002,may,spring]
+list = [28,5,2002, 'may','spring']
 print('list=',list)
 
 #Задание 2
@@ -40,6 +40,6 @@ print('Имя и никнейм',name_and_nikcname )
 
 just_dict = {'name':'Polina', 'age':19}
 print('Name and age',just_dict)
-just_dict['name'] = Polina
+just_dict['name'] = 'Polina'
 print('Name and age',just_dict)
 age = just_dict['age']
