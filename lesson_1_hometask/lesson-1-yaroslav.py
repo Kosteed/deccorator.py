@@ -3,9 +3,9 @@
 ### одну типа list, list должен содержать минимум 5 значений.
 a = 20
 b = 25
-s_1 = 'yaroslav'
-s_2 = 'svirida'
-S = [14, 19, 'hi', 'python', 898]
+last_name = 'yaroslav'
+surename = 'svirida'
+type_list = [14, 19, 'hi', 'python', 898]
 
 ### Задание #2:
 ###    объявить новую переменную типа int и присвоить ей результат
@@ -27,7 +27,7 @@ new_int_7 = a ** b
 ###    с 1-ого индекса по 4-ый (инициализация - просто присвоение значения,
 ###    типа age = 29)
 
-new_str = s_1[1:5]
+new_str = last_name[1:5]
 
 
 ### Задание #4:
@@ -37,7 +37,7 @@ new_str = s_1[1:5]
 ###    между ними. Пример name = 'Valerij' last_name = 'Zhuk'
 ###    print(full_name) >>> 'Valerij Zhuk'
 
-full_name = s_1 + ' ' + s_2
+full_name = last_name + ' ' + surename
 print(full_name)
 
 ### Задание #5:
@@ -49,7 +49,7 @@ print(full_name)
 ###    После чего создать переменную age и записать в нее значение
 ###    ключа age из just_dict
 
-just_dict = {'name': s_1 , 'age': 25}
+just_dict = {'name': last_name , 'age': 25}
 just_dict['name'] = 'sasha'
 age = just_dict['age']
 print(age)
