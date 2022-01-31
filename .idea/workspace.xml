@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c365d487-68df-4bbe-a82c-da426a603ce2" name="Changes" comment="" />
+    <list default="true" id="c365d487-68df-4bbe-a82c-da426a603ce2" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -166,8 +168,17 @@
       <workItem from="1643578062794" duration="113000" />
       <workItem from="1643613972427" duration="2221000" />
       <workItem from="1643616720559" duration="626000" />
-      <workItem from="1643617356670" duration="1488000" />
+      <workItem from="1643617356670" duration="3037000" />
+      <workItem from="1643624359079" duration="2553000" />
     </task>
+    <task id="LOCAL-00001" summary="Создавали переменные, меняли значение переменной по ключу, выполняли математические операции с переменными">
+      <created>1643619392551</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1643619392551</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -197,7 +208,8 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <option name="LAST_COMMIT_MESSAGE" value="" />
+    <MESSAGE value="Создавали переменные, меняли значение переменной по ключу, выполняли математические операции с переменными" />
+    <option name="LAST_COMMIT_MESSAGE" value="Создавали переменные, меняли значение переменной по ключу, выполняли математические операции с переменными" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -211,6 +223,7 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/z67$lesson1.coverage" NAME="lesson1 Coverage Results" MODIFIED="1643223655448" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Z67$lesson1_Kseniya_Konon.coverage" NAME="lesson1-Kseniya_Konon Coverage Results" MODIFIED="1643619897634" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop/Новая папка" />
     <SUITE FILE_PATH="coverage/z67$main.coverage" NAME="main Coverage Results" MODIFIED="1643221461916" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/z67$.coverage" NAME="новый Coverage Results" MODIFIED="1643616099480" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop/Новая папка" />
   </component>
