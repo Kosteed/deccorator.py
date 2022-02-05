@@ -5,8 +5,7 @@ print('Task 1, way 1: ', sum(lst))
 lst_sum = 0
 for num in lst:
     lst_sum += num
-print('Task 1, way 2: ', lst_sum)
-print()
+print('Task 1, way 2: ', lst_sum, end='\n\n')
 
 # Task 2
 lst = [1, 2, 3, 4, 5, 6, 7, 8, 9]
@@ -16,20 +15,18 @@ for num in lst:
         lst_sum += num
 print('Task 2, way 1: ', lst_sum)
 
-print('Task 2, way 2: ', sum(num for num in lst if num % 2 == 0))
-print()
+print('Task 2, way 2: ', sum(num for num in lst if num % 2 == 0), end='\n\n')
 
 # Task 3
 mix_tuple = (1, 2, 3, 8.2, 34, 22.54)
 print('Task 3: ', end='')
-print(*(num for num in mix_tuple if isinstance(num, int)), sep=', ')
-print()
+print(*(num for num in mix_tuple if isinstance(num, int)), sep=', ', end='\n\n')
 
 # Task 4
 tup = (1, 23, 321, 67, 8, 0)
 print('Task 4:')
-for num in enumerate(tup, 1):
-    print(*num, sep=': ')
+for variable in enumerate(tup, 1):
+    print(*variable, sep=': ')
 print()
 
 # Task 5
@@ -40,8 +37,7 @@ for key in dictionary:
     print(key, end=' ')
 print()
 
-print('Task 5, Way 2:', *dictionary)
-print()
+print('Task 5, Way 2:', *dictionary, end='\n\n')
 
 # Task 6
 dictionary = {'alpha': 1, 'beta': 2, 'gamma': 3}
@@ -70,8 +66,7 @@ print(*new_lst, sep=', ')
 
 new_lst = ['Dr. ' + name for name in lst]
 print('Task 8, Way 2:', end=' ')
-print(*new_lst, sep=', ')
-print()
+print(*new_lst, sep=', ', end='\n\n')
 
 # Task 9
 lst_div_eight = [num for num in range(1, 1001) if num % 8 == 0]
