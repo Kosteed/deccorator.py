@@ -40,8 +40,8 @@ def print_tuple(input_data: list) -> NoReturn:
     Apply enumerate() and print elements in a tuple
     :param input_data: List of mixed data type
     """
-    for data in enumerate(input_data):
-        print(f"{data} in {input_data}")
+    for (id, value) in enumerate(input_data):
+        print(f"{id, value} in {input_data}")
 
 
 def print_keys(input_data: dict) -> NoReturn:
@@ -98,7 +98,7 @@ def find_num(input_data: list) -> NoReturn:
     :param input_data: List of mixed data type
     """
     ind = 0
-    while ind < input_data.__len__():
+    while ind < len(input_data):
         if isinstance(input_data[ind], int) and input_data[ind] == 100:
             print(f"There is 100 at index {ind}")
         ind += 1
