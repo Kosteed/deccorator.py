@@ -1,10 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c365d487-68df-4bbe-a82c-da426a603ce2" name="Changes" comment="Создавали переменные, меняли значение переменной по ключу, выполняли математические операции с переменными">
-      <changelist_data name="https://github.com/Kseniya2801/Z67/tree/lesson-1-main/lesson_1_hometask" email="" />
-      <change afterPath="$PROJECT_DIR$/lesson_1_hometask/lesson1-Kseniya_Konon.py" afterDir="false" />
+    <list default="true" id="c365d487-68df-4bbe-a82c-da426a603ce2" name="Changes" comment="Tut">
+      <changelist_data name="https://github.com/AnthonyDem/Z67.githttps://github.com/AnthonyDem/Z67/tree/lesson-5-main/lesson_5_hometask" email="" />
+      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject7/lesson5_hometask_vlad_masienok.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject7/main.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson_5_hometask/README.md" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,13 +24,14 @@
   <component name="Git.Settings">
     <option name="PREVIOUS_COMMIT_AUTHORS">
       <list>
+        <option value="https://github.com/AnthonyDem/Z67.githttps://github.com/AnthonyDem/Z67/tree/lesson-5-main/lesson_5_hometask" />
         <option value="https://github.com/Kseniya2801/Z67/tree/lesson-1-main/lesson_1_hometask" />
         <option value="https://github.com/AnthonyDem/Z67/tree/lesson-1-main/lesson_1_hometask" />
       </list>
     </option>
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="1" />
+        <entry key="$PROJECT_DIR$" value="lesson-5-vlad_masienok" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -53,9 +57,9 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../test/main.py" />
-    <property name="settings.editor.selected.configurable" value="preferences.customizations" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.CommitDialog" />
   </component>
-  <component name="RunManager" selected="Python.lesson2TMS">
+  <component name="RunManager" selected="Python.lesson1-Kseniya_Konon">
     <configuration name="персональный_привет" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -63,13 +67,13 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$USER_HOME$/Desktop/Python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../Python" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$USER_HOME$/Desktop/Python/персональный_привет.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../Python/персональный_привет.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -145,7 +149,6 @@
       <method v="2" />
     </configuration>
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
-      <module name="z67" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -153,10 +156,10 @@
       </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
+      <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <module name="" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
@@ -167,11 +170,11 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.main" />
+      <item itemvalue="Python.персональный_привет" />
       <item itemvalue="Python.lesson1-Kseniya_Konon" />
       <item itemvalue="Python.lesson1" />
-      <item itemvalue="Python.персональный_привет" />
       <item itemvalue="Python.lesson2TMS" />
+      <item itemvalue="Python.main" />
     </list>
     <recent_temporary>
       <list>
@@ -243,7 +246,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="lesson-1-Kseniya_Konon" />
+                        <option value="lesson-5-vlad_masienok" />
                       </list>
                     </value>
                   </entry>
@@ -257,24 +260,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Создавали переменные, меняли значение переменной по ключу, выполняли математические операции с переменными" />
-    <option name="LAST_COMMIT_MESSAGE" value="Создавали переменные, меняли значение переменной по ключу, выполняли математические операции с переменными" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/main.py</url>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
-  </component>
-  <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/lesson1_Kseniya_Konon_py$main__1_.coverage" NAME="main (1) Coverage Results" MODIFIED="1643655368915" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../test" />
-    <SUITE FILE_PATH="coverage/z67$lesson1.coverage" NAME="lesson1 Coverage Results" MODIFIED="1643223655448" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Z67$lesson1_Kseniya_Konon.coverage" NAME="lesson1-Kseniya_Konon Coverage Results" MODIFIED="1643628891034" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop/Новая папка" />
-    <SUITE FILE_PATH="coverage/z67$main.coverage" NAME="main Coverage Results" MODIFIED="1643221461916" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/lesson1_Kseniya_Konon_py$lesson1_Kseniya_Konon.coverage" NAME="lesson1-Kseniya_Konon Coverage Results" MODIFIED="1643629796720" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lesson_1_hometask" />
-    <SUITE FILE_PATH="coverage/z67$.coverage" NAME="новый Coverage Results" MODIFIED="1643616099480" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop/Новая папка" />
+    <MESSAGE value="In this hometask i'l did a lot of work and spend a lot of time for this project,pls,chek this and send me a message with you comments about my work ^-^" />
+    <MESSAGE value="Tut" />
+    <option name="LAST_COMMIT_MESSAGE" value="Tut" />
   </component>
 </project>
